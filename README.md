@@ -1,49 +1,31 @@
-# Hey there! 👋 I'm Aman
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I am a builder who uses AI as a coding partner to turn ideas into functioning apps. I don't claim to be a master full-stack software engineer—instead, I focus on learning, testing, and shipping actual products by directing AI coding agents.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-teach&label=Profile%20views&color=0e75b6&style=flat" alt="aman-teach" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-teach" alt="aman-teach" /></a> </p>
 
-## 🚀 What I'm Building Now
+- 🔭 I’m currently working on [DaySync](https://github.com/Aman-teach/DaySync)
 
-### 🛡️ [Sanctum](https://github.com/Aman-teach/Sanctum) (Android Browser)
-*A private, secure mobile browser built in Kotlin & Jetpack Compose.*
-* **How it works**: Uses DNS-over-HTTPS (DoH) filters, automatic SafeSearch queries, and real-time keyword filters to block explicit content and trackers.
-* **Status**: Stable v2.4.0 build deployed.
+- 🌱 I’m currently learning **React Native, Expo, and Appwrite Backend Services.**
 
-### 🤖 [FluentAI](https://github.com/Aman-teach/FluentAI) (Language Learner)
-*AI-powered language learning application.*
-* **Built with**: JavaScript & React.
-* **Live Demo**: [fluent-ai-ashy.vercel.app](https://fluent-ai-ashy.vercel.app)
+- 🤝 I’m looking for help with [Sanctum](https://github.com/Aman-teach/Sanctum)
 
-### 📈 [Rawbrandmedia](https://github.com/Aman-teach/Rawbrandmedia) (Agency Site)
-*Official website for a personal branding agency.*
-* **Built with**: TypeScript & React.
-* **Live Link**: [rawbrandmedia.vercel.app](https://rawbrandmedia.vercel.app)
+- 💬 Ask me about **React, Appwrite, and building offline-first mobile apps**
 
----
+- 📫 How to reach me **amanxmedia@gmail.com**
 
-## 🛠️ How I Build
+- ⚡ Fun fact **I prefer tapping a microphone over typing to log my day!**
 
-Rather than writing boilerplate by hand, I use a modern AI-assisted workflow:
-* **UI/UX Design**: I design screen layouts and wireframes using tools like Stitch AI.
-* **Pair Programming**: I guide AI coding agents to write native Kotlin, TypeScript, and JavaScript logic.
-* **Testing & Deployment**: I compile, sideload, test builds locally, and handle deployment via Vercel.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💻 Tech Stack (Things I work with, test, and debug)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-teach&show_icons=true&locale=en&layout=compact" alt="aman-teach" /></p>
 
-* **Mobile**: Kotlin, Jetpack Compose, Android SDK
-* **Web**: React, JavaScript, TypeScript, HTML/CSS
-* **Tools**: Git, Vercel, Android Studio, ADB (Android Debug Bridge)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-teach&show_icons=true&locale=en" alt="aman-teach" /></p>
 
----
-
-## 💬 Get In Touch
-
-* **Email**: [amanxmedia@gmail.com](mailto:amanxmedia@gmail.com)
-* **GitHub**: [@Aman-teach](https://github.com/Aman-teach)
-
----
-*Last Updated: June 2026*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-teach&" alt="aman-teach" /></p>
